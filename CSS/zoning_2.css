@@ -1,0 +1,59 @@
+body{
+    color: white;
+}
+
+#container{
+    width: 80%;
+    border: 1px dashed black;
+    margin: auto;
+}
+
+header{
+    background-color: #8e3557;
+    height: 60px;
+}
+
+nav{
+    background-color: #4a1a2c;
+}
+
+main{
+    margin: 5px;
+}
+
+section{
+    background-color: orange;
+    height: 200px;
+}
+
+.dim{
+    width: 50%;
+    height: 200px;
+    float: left;
+}
+
+.bordeau{
+    background-color: #4a1a2c ;
+}
+
+.vert-fonce{
+    background-color: #787746 ;
+}
+
+.vert-claire{
+    background-color: #e6e2af;
+}
+
+.bleu{
+    background-color: #add8e6 ;
+}
+
+p{
+    margin: 0%;
+}
+
+a{
+    background-color: red;
+}
+
+/* .clear */
